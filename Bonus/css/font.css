@@ -1,0 +1,19 @@
+.font-colorgrey{
+    color: rgba(147,147,147,255);
+}
+
+.font-colorblue{
+    color: rgba(46,174,230,255);
+}
+
+.font-sizesmall{
+    font-size: 10px;
+}
+
+.font-arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.highlight-text{
+    background-color: yellow;
+}

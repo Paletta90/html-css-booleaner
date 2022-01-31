@@ -1,0 +1,28 @@
+.rowblue{
+    background-color: rgba(46,174,230,255);
+}
+.rowlightblue{
+    background-color:lightblue;
+}
+.rowwhite{
+    background-color: white;
+}
+.row-left{
+    display: inline-block;
+    width: 24%;
+}
+.row-center{
+    display: inline-block;
+    width: 24%;
+}
+.row-right{
+    display: inline-block;
+    width: 50%;
+}
+.fontcolor{
+    color: white;
+}
+
+.rowheight{
+    height: 60px;
+}
