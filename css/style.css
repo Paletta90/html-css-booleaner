@@ -6,12 +6,15 @@
 }
 /* Reset */
 
-.margin-left{
-    margin-left: 1%;
+.margin-list{
+    margin-left: 2%;
+    margin-right: 1%;
+    margin-bottom: 2%;
 }
 .margin{
     margin-left: 1%;
-    margin-bottom: 3%;
+    margin-right: 1%;
+    margin-bottom: 2%;
 }
 .container-header{
     height: 80px;
@@ -19,6 +22,11 @@
     background-image: url("../img/pattern.png");
     background-size: 20%;
     margin-bottom: 10px;
+}
+.container-logo{
+    background-image: url("../img/logo.svg");
+    background-repeat: no-repeat;
+    height: 40px;
 }
 .container-img1{
     background-image: url("../img/monitor.jpg");
@@ -34,24 +42,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.font-colorgrey{
-    color: rgba(147,147,147,255);
-    /* color: red; */
+.logosize{
+    height: 50%;
 }
-
-.font-colorblue{
-    color: rgba(46,174,230,255);
-}
-
-.font-sizesmall{
-    font-size: 10px;
-}
-
-.font-arial{
-    font-family: Arial, Helvetica, sans-serif;
-}
-.highlight-text{
-    background-color: yellow;
+.logoposition{
+    padding-top: 0%;
+    padding-right: 0%;
 }
 
 .positiontext{
