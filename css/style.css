@@ -23,10 +23,16 @@
     background-size: 20%;
     margin-bottom: 10px;
 }
-.container-logo{
+/* .container-logo{
     background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     height: 40px;
+    margin-top: 45px;;
+} */
+.logo{
+    height: 40px;
+    /* height:45%; */
+    margin-top: 40px;
 }
 .container-img1{
     background-image: url("../img/monitor.jpg");
@@ -42,14 +48,6 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.logosize{
-    height: 50%;
-}
-.logoposition{
-    padding-top: 0%;
-    padding-right: 0%;
-}
-
 .positiontext{
     padding-top: 6%;
     padding-left: 4%;

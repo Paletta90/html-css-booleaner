@@ -23,12 +23,16 @@
     background-size: 20%;
     margin-bottom: 10px;
 }
-.container-logo{
+/* .container-logo{
     background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     height: 40px;
+} */
+.logo{
+    height: 40px;
+    /* height:45%; */
+    margin-top: 40px;
 }
-
 .container{
     width: 80%;
     margin:0 auto;
