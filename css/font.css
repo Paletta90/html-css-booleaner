@@ -5,7 +5,8 @@
 .font-colorblue{
     color: rgba(46,174,230,255);
 }
-.font-colorwhite{
+.font-colorwhite,
+th{
     color: white;
 }
 .font-sizesmall{

@@ -1,4 +1,4 @@
-.rowblue{
+/* .rowblue{
     background-color: rgba(46,174,230,255);
 }
 .rowlightblue{
@@ -21,4 +21,17 @@
 }
 .rowheight{
     height: 60px;
+} */
+.bg-blue{
+    background-color: #20a9e5;
+}
+.bg-lightblue{
+    background-color: #b1e5f2;
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+.width-20{
+    width: 20%;
 }
