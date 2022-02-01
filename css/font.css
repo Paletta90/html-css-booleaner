@@ -5,7 +5,9 @@
 .font-colorblue{
     color: rgba(46,174,230,255);
 }
-
+.font-colorwhite{
+    color: white;
+}
 .font-sizesmall{
     font-size: 10px;
 }
