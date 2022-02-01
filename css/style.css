@@ -10,9 +10,11 @@ li{
     margin-left: 1em;
 }
 .margin{
-    margin-left: 1%;
+    /* margin-left: 1%;
     margin-right: 1%;
-    margin-bottom: 2%;
+    margin-bottom: 2%; */
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 .container-header{
     background-color:rgba(78,160,255,255);
@@ -22,6 +24,10 @@ li{
 #logo{
     height: 40px;
     margin-top: 40px;
+}
+.img-tim{
+    width: 48%;
+    height: 500px;
 }
 .container-img1{
     background-image: url("../img/monitor.jpg");
@@ -40,8 +46,4 @@ li{
 .positiontext{
     padding-top: 6%;
     padding-left: 4%;
-
-}.img-tim{
-    width: 48%;
-    height: 500px;
 }
